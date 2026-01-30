@@ -14,6 +14,7 @@ export const DESTINATIONS = Object.keys(
 /** Ranked list of armor materials from worst to best */
 export const materials = [
   "leather",
+  "copper",
   "golden",
   "iron",
   "chainmail",
